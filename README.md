@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Cong Hau - Web Developer
+# Cong Hau - Web Developer Intern
 
 - Open and friendly 😊
 - Love to learn new things, especially things related to Frontend stacks 😍
